@@ -8,9 +8,7 @@
 using namespace std;
 #define N 100000
 
-// 20520562 - Nguyen Dinh Kha
-// a = 0.2, b = 0.2 and c = 5.7 . "a" was chosen as the bifurcation parameter
-// properties of a = 0.1, b = 0.1, and c = 14 have been more commonly used
+
 
 
 typedef bitset<8> byte;
