@@ -1,14 +1,3 @@
-/*
-Amol Holkundkar
-Department of Physics, BITS Pilani,
-Pilani, Rajasthan - India.
-e-mail: amol.h@live.com
-
-The method is explained on following web-page: Courtesy Texas A & M University
-
-http://www.math.tamu.edu/~mpilant/math614/Matlab/Lyapunov/LorenzSpectrum.pdf
-
-*/
 
 #include <iostream>
 #include <cmath>
